@@ -11,4 +11,4 @@ Dalam functional programming, data dianggap sebagai input dan fungsi sebagai pro
 
 Pemrograman fungsional dan pemrograman berorientasi objek memiliki keuntungan dan kelemahan masing-masing. Pemrograman fungsional lebih mudah dipahami dan dipelihara, lebih mudah untuk diuji dan diuji ulang, serta lebih tahan terhadap kesalahan dan bug. Sedangkan, pemrograman berorientasi objek memungkinkan pembuatan program yang lebih mudah digunakan kembali, dan lebih terstruktur. Pemilihan paradigma pemrograman yang tepat tergantung pada kebutuhan dan karakteristik dari program yang akan dibuat.
 
-####G1A022088
+###G1A022088
