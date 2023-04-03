@@ -10,3 +10,5 @@ OOP atau Object Oriented Programming adalah suatu metode pemrograman yang berori
 Dalam functional programming, data dianggap sebagai input dan fungsi sebagai proses yang menghasilkan output, tanpa memodifikasi data asli atau lingkungan program. Sementara itu, dalam pemrograman berorientasi objek, data dan fungsi dikapsulasi ke dalam suatu class. class merupakan struktur data yang menggabungkan data dan fungsi terkait dengan suatu objek. Objek dibuat dari class dan dapat memiliki atribut dan fungsi yang diwarisi dari class induknya.
 
 Pemrograman fungsional dan pemrograman berorientasi objek memiliki keuntungan dan kelemahan masing-masing. Pemrograman fungsional lebih mudah dipahami dan dipelihara, lebih mudah untuk diuji dan diuji ulang, serta lebih tahan terhadap kesalahan dan bug. Sedangkan, pemrograman berorientasi objek memungkinkan pembuatan program yang lebih mudah digunakan kembali, dan lebih terstruktur. Pemilihan paradigma pemrograman yang tepat tergantung pada kebutuhan dan karakteristik dari program yang akan dibuat.
+
+####G1A022088
